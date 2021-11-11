@@ -1,1 +1,0 @@
-# aws-etl-covid-data-
